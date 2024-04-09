@@ -32,7 +32,7 @@ Pour exécuter le programme principal, utilisez la commande suivante dans le ter
 
 ```sh
 createmodel.py #pour creer le modele
-python main.py #pour l'executer
+python main.py #pour tester
 ```
 
 
