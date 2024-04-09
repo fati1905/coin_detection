@@ -40,8 +40,22 @@ python main.py
 
 ![image](https://github.com/fati1905/coin_detection/assets/81489719/08640781-03e9-4dce-a6ee-33e630e0f713)
 
-## Description du Modèle
+## Description du Modèle 
 
+### Prétraitement des Images
+Les images sont d'abord converties en système BGR pour l'utilisation avec la bibliothèque OpenCV. Nous appliquons ensuite une binarisation pour simplifier la détection des contours en accentuant ces derniers, ce qui permet une meilleure distinction entre les pièces et l'arrière-plan. Après la détection de contours, nous filtrons ceux-ci en fonction de leur taille et aire pour réduire le bruit et isoler les régions d'intérêt correspondant aux pièces. Cette étape préparatoire est cruciale pour la réussite de la classification ultérieure.
+
+### Méthode de Classification
+Le cœur de notre système repose sur l'utilisation de réseaux de neurones convolutionnels (CNN), reconnus pour leur efficacité dans le traitement d'images. Les CNN ont la capacité de découvrir et d'extraire des caractéristiques pertinentes des données, même celles qui ne sont pas immédiatement évidentes. En raison de similitudes dans les caractéristiques physiques des pièces de monnaie, telles que le diamètre, la couleur, et les inscriptions, le CNN se révèle être un choix judicieux pour notre objectif de classification.
+
+### Évaluation du Modèle
+L'évaluation de notre modèle se fait au cours de son entraînement, en surveillant à la fois l'exactitude générale et la perte, ainsi que l'exactitude et la perte de validation. Cette approche nous permet d'ajuster le modèle pour optimiser ses performances.
+
+### Résultats et Observations
+Les résultats varient en fonction des images testées, mettant en lumière certaines limitations de notre approche, telles que la difficulté à distinguer des pièces avec des caractéristiques très similaires ou des problèmes liés à l'orientation et au chevauchement des pièces. Cependant, notre modèle montre des performances prometteuses, en particulier avec des pièces de valeurs plus élevées.
+
+### Conclusion
+Notre système de détection de pièces de monnaie démontre le potentiel des CNN pour automatiser le comptage de monnaies dans des images. Bien que des défis subsistent, en particulier en ce qui concerne la gestion du bruit de fond et des variations dans l'apparence des pièces, les résultats sont encourageants. Des travaux futurs pourront explorer des améliorations du prétraitement et l'utilisation de modèles CNN pré-entraînés pour améliorer davantage la précision de la classification.
 
 ## Contributeurs:
 Ce projet a été réalisé grâce à la contribution des membres suivants :</p>
