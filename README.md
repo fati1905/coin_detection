@@ -8,7 +8,7 @@ Ces instructions vous guideront à travers l'installation et la configuration n�
 ### Prérequis
 
 Avant de commencer, assurez-vous d'avoir Python installé sur votre système. Ce projet a été testé avec Python 3.8, mais il devrait être compatible avec d'autres versions de Python 3. Assurez-vous également d'avoir `pip` disponible pour installer des dépendances.
-bibliotheque utilisées:
+Bibliotheques utilisées:
 - os
 - OpenCV
 - numpy
