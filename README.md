@@ -4,7 +4,7 @@
 
 
 <h3>La base de données:</h3>
-<h4>Contributeurs</h4>
+<h3><strong>Contributeurs</strong></h3>
 Ce projet a été réalisé grâce à la contribution des membres suivants :</p>
     <ul>
         <li><strong>Fatima BEN KADOUR</strong></li>
