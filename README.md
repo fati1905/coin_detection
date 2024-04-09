@@ -37,7 +37,7 @@ python.main.py #pour tester
 
 
 ## La base de données:
-<p><b>Vu leurs nature volumineuse, tous les dossiers de la base de données sont à télécharger depuis le lien drive suivant: </b></p>
+<p><b>En raison de leur taille volumineuse, tous les dossiers de la base de données sont disponibles en téléchargement via le lien suivant sur Google Drive: </b></p>
 <p>La base de données comprend 8426 images représentant des pièces de monnaie de différentes valeurs, notamment des pièces de 2 euros, 1 euro, 50 centimes, 20 centimes, 10 centimes, 2 centimes et 1 centime. Ces images sont de haute qualité, ce qui les rend idéales pour l'entraînement de modèles de reconnaissance de pièces de monnaie.</p>
 
 <p>Cette vaste collection d'images offre une variété de contextes et d'angles de vue, ce qui permettra à notre modèle de se familiariser avec différents scénarios rencontrés dans des applications réelles.</p>
