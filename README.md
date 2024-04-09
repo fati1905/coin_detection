@@ -28,7 +28,7 @@ Bibliotheques utilisées:
    ```
 ### Exécution
 
-Pour exécuter le programme principal, utilisez la commande suivante dans le terminal :
+Pour exécuter le programme principal, utilisez les commandes suivantes dans le terminal :
 
 ```sh
 createmodel.py #pour creer le modele
