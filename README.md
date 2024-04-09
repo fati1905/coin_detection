@@ -39,9 +39,6 @@ python main.py
 <p>Notre base de données est accompagnée d'un fichier Excel, représenté dans l'image ci-dessous, qui contient les nomenclatures des images, le nombre de pièces dans chaque image ainsi que la valeur totale des pièces. Ce fichier est essentiel pour évaluer ultérieurement les performances de notre programme.</p>
 
 ![image](https://github.com/fati1905/coin_detection/assets/81489719/08640781-03e9-4dce-a6ee-33e630e0f713)
-# coin_detection
-<p>Ce projet vise à développer un programme capable de détecter et d'identifier des pièces de monnaie en euros à partir d'une image. La nécessité de ce projet découle de la volonté d'automatiser le comptage de la monnaie, facilitant ainsi la tâche dans divers scénarios tels que le tri de pièces collectées ou l'assistance dans des environnements de vente.</p>
-
 
 ## Description du Modèle
 Ce modèle est construit en utilisant Keras, une bibliothèque de deep learning haut niveau qui permet de construire et d'entraîner des modèles de réseaux de neurones de manière intuitive et rapide. 
