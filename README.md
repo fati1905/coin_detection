@@ -31,8 +31,8 @@ Bibliotheques utilisées:
 Pour exécuter le programme principal, utilisez les commandes suivantes dans le terminal :
 
 ```sh
-createmodel.py #pour creer le modele
-python.main.py #pour tester
+python createmodel.py #pour creer le modele
+python main.py #pour tester
 ```
 
 
