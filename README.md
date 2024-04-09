@@ -73,8 +73,9 @@ Notre système de détection de pièces de monnaie démontre le potentiel des CN
 ## Contributeurs:
 Ce projet a été réalisé grâce à la contribution des membres suivants :</p>
     <ul>
+        <li><strong>Marwa RIZI</strong></li>
         <li><strong>Fatima BEN KADOUR</strong></li>
         <li><strong>Tilelli BEKTACHE</strong></li>
         <li><strong>Sabine BELAID</strong></li>
-        <li><strong>Marwa RIZI</strong></li>
+        
     </ul>
