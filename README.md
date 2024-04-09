@@ -29,6 +29,14 @@ python main.py
 
 
 ## La base de données:
+<p>La base de données comprend 92 images de pièces de monnaie capturées par les étudiants du Master 1 VMI (Vision et Machine Intelligente) à Paris Cité, dans le cadre du projet du module "Introduction à l'analyse d'images". Ces images représentent des pièces de 2 euros, 1 euro, 50 centimes, 20 centimes, 10 centimes, 2 centimes et 1 centime, prises avec des smartphones ordinaires et sur divers arrière-plans. Cette diversité constitue l'un des principaux défis de ce projet.</p>
+<p>Ci-dessous, vous trouverez un échantillon de quelques images extraites de notre base de données.</p>
+![image](https://github.com/fati1905/coin_detection/assets/81489719/2ee0de51-bddd-4536-938a-2090caf84f20)
+![image](https://github.com/fati1905/coin_detection/assets/81489719/a4d7d8ca-252a-48b8-a63e-29a86a0209ba)
+
+<p>Notre base de données est accompagnée d'un fichier Excel, représenté dans l'image ci-dessous, qui contient les nomenclatures des images, le nombre de pièces dans chaque image ainsi que la valeur totale des pièces. Ce fichier est essentiel pour évaluer ultérieurement les performances de notre programme.</p>
+![image](https://github.com/fati1905/coin_detection/assets/81489719/08640781-03e9-4dce-a6ee-33e630e0f713)
+
 ## Contributeurs:
 Ce projet a été réalisé grâce à la contribution des membres suivants :</p>
     <ul>
