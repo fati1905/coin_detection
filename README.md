@@ -53,7 +53,7 @@ Deux couches de pooling max avec une fenêtre de 2x2 suivent chaque couche convo
 Convertit les matrices de caractéristiques en un vecteur unique, facilitant la transition entre les couches convolutives et les couches denses.
 #### Couche Dense: 
 Une couche dense avec 1000 unités et la fonction d'activation ReLU, suivie d'une couche de sortie avec 8 unités (correspondant aux 8 classes de pièces de monnaie) et la fonction d'activation softmax pour la classification multiclasse.
-Entraînement du Modèle
+### Entraînement du Modèle
 Le modèle est compilé avec la fonction de perte categorical_crossentropy, optimisé par Adam, et évalué en utilisant la précision (accuracy) comme métrique.
 L'entraînement se fait sur des données divisées en un ensemble d'entraînement et un ensemble de test, avec une normalisation des pixels entre 0 et 1 pour améliorer l'efficacité de l'entraînement.
 Le modèle est entraîné pour 10 époques avec un batch size de 256 et une division de validation de 30% sur l'ensemble d'entraînement pour surveiller et prévenir le surajustement.
