@@ -16,41 +16,17 @@ Avant de commencer, assurez-vous d'avoir Python installé sur votre système. Ce
    Ouvrez un terminal et clonez le dépôt GitHub en utilisant la commande suivante :
 
    ```sh
-   git clone https://github.com/votre-username/votre-projet.git
-   cd votre-projet
+   git clone https://github.com/fati1905/coin_detection
+   cd coin_detection
    ```
-
-2. **Installer les dépendances**
-
-   Installez toutes les dépendances requises en exécutant :
-
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-   Ce fichier `requirements.txt` devrait inclure toutes les bibliothèques nécessaires telles que `numpy`, `opencv-python`, etc.
-
-3. **Configuration initiale**
-
-   Si votre projet nécessite une configuration initiale (comme la modification de fichiers de configuration ou la mise en place d'une base de données), décrivez les étapes ici.
-
 ### Exécution
 
 Pour exécuter le programme principal, utilisez la commande suivante dans le terminal :
 
 ```sh
-python Main.py
+python main.py
 ```
 
-Remplacez `Main.py` par le script principal de votre projet, si différent.
-
-### Tests
-
-Expliquez comment exécuter les tests automatisés pour ce système, si applicable :
-
-```sh
-python -m unittest discover
-```
 
 <h3>La base de données:</h3>
 <h3><strong>Contributeurs:</strong></h3>
