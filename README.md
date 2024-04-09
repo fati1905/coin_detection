@@ -55,6 +55,9 @@ L'évaluation de notre modèle se fait au cours de son entraînement, en surveil
 Les résultats varient en fonction des images testées, mettant en lumière certaines limitations de notre approche, telles que la difficulté à distinguer des pièces avec des caractéristiques très similaires ou des problèmes liés à l'orientation et au chevauchement des pièces. Cependant, notre modèle montre des performances prometteuses, en particulier avec des pièces de valeurs plus élevées.
 <img width="410" alt="Capture d'écran 2024-04-09 174318" src="https://github.com/fati1905/coin_detection/assets/152429992/1b53c47f-7086-4829-90e9-2809e534e60d">
 <img width="409" alt="Capture d'écran 2024-04-09 174427" src="https://github.com/fati1905/coin_detection/assets/152429992/e63644c5-5837-4b29-8623-47acd5934cac">
+<img width="407" alt="Capture d'écran 2024-04-09 174646" src="https://github.com/fati1905/coin_detection/assets/152429992/62c68169-00a1-4ab2-8b74-91b62ddb6621">
+<img width="389" alt="Capture d'écran 2024-04-09 174718" src="https://github.com/fati1905/coin_detection/assets/152429992/9a68bd2d-9cfd-4cc7-a389-0a20315bbee3">
+<img width="384" alt="Capture d'écran 2024-04-09 174744" src="https://github.com/fati1905/coin_detection/assets/152429992/6806e82b-9e6e-4603-a54c-9accb2ecdfc7">
 
 ### Conclusion
 Notre système de détection de pièces de monnaie démontre le potentiel des CNN pour automatiser le comptage de monnaies dans des images. Bien que des défis subsistent, en particulier en ce qui concerne la gestion du bruit de fond et des variations dans l'apparence des pièces, les résultats sont encourageants. Des travaux futurs pourront explorer des améliorations du prétraitement et l'utilisation de modèles CNN pré-entraînés pour améliorer davantage la précision de la classification.
