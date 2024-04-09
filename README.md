@@ -46,7 +46,6 @@ python main.py #pour tester
 
 <p>Notre base de données est accompagnée d'un fichier Excel, représenté dans l'image ci-dessous, qui contient les nomenclatures des images, le nombre de pièces dans chaque image ainsi que la valeur totale des pièces. Ce fichier est essentiel pour évaluer ultérieurement les performances de notre programme.</p>
 
-![image](https://github.com/fati1905/coin_detection/assets/81489719/08640781-03e9-4dce-a6ee-33e630e0f713)
 
 ## Description du Modèle 
 
