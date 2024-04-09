@@ -8,6 +8,13 @@ Ces instructions vous guideront à travers l'installation et la configuration n�
 ### Prérequis
 
 Avant de commencer, assurez-vous d'avoir Python installé sur votre système. Ce projet a été testé avec Python 3.8, mais il devrait être compatible avec d'autres versions de Python 3. Assurez-vous également d'avoir `pip` disponible pour installer des dépendances.
+bibliotheque utilisées:
+- os
+- OpenCV
+- numpy
+- matplotlib.pyplot
+- keras
+  
 
 ### Installation
 
@@ -24,7 +31,8 @@ Avant de commencer, assurez-vous d'avoir Python installé sur votre système. Ce
 Pour exécuter le programme principal, utilisez la commande suivante dans le terminal :
 
 ```sh
-python main.py
+createmodel.py /pour creer le modele
+python main.py /pour l'executer
 ```
 
 
