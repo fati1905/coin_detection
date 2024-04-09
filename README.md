@@ -37,15 +37,19 @@ python.main.py #pour tester
 
 
 ## La base de données:
-<p>La base de données comprend 92 images de pièces de monnaie capturées par les étudiants du Master 1 VMI (Vision et Machine Intelligente) à Paris Cité, dans le cadre du projet du module "Introduction à l'analyse d'images". Ces images représentent des pièces de 2 euros, 1 euro, 50 centimes, 20 centimes, 10 centimes, 2 centimes et 1 centime, prises avec des smartphones ordinaires et sur divers arrière-plans. Cette diversité constitue l'un des principaux défis de ce projet.</p>
+<p><b>Vu leurs nature volumineuse, tous les dossiers de la base de données sont à télécharger depuis le lien drive suivant: </b></p>
+<p>La base de données comprend 8426 images représentant des pièces de monnaie de différentes valeurs, notamment des pièces de 2 euros, 1 euro, 50 centimes, 20 centimes, 10 centimes, 2 centimes et 1 centime. Ces images sont de haute qualité, ce qui les rend idéales pour l'entraînement de modèles de reconnaissance de pièces de monnaie.</p>
+
+<p>Cette vaste collection d'images offre une variété de contextes et d'angles de vue, ce qui permettra à notre modèle de se familiariser avec différents scénarios rencontrés dans des applications réelles.</p>
+
+![1c 73](https://github.com/fati1905/coin_detection/assets/81489719/845f0e95-8423-480a-b24d-bf1f807edd1d)
+
+<p>La base de données pour la partie testing comprend 92 images de pièces de monnaie capturées par les étudiants du Master 1 VMI (Vision et Machine Intelligente) à Paris Cité, dans le cadre du projet du module "Introduction à l'analyse d'images". Ces images prises avec des smartphones ordinaires et sur divers arrière-plans. Cette diversité constitue l'un des principaux défis de ce projet.</p>
 <p>Ci-dessous, vous trouverez un échantillon de quelques images extraites de notre base de données.</p>
 
 ![image](https://github.com/fati1905/coin_detection/assets/81489719/2ee0de51-bddd-4536-938a-2090caf84f20)
 
 ![image](https://github.com/fati1905/coin_detection/assets/81489719/a4d7d8ca-252a-48b8-a63e-29a86a0209ba)
-
-<p>Notre base de données est accompagnée d'un fichier Excel, représenté dans l'image ci-dessous, qui contient les nomenclatures des images, le nombre de pièces dans chaque image ainsi que la valeur totale des pièces. Ce fichier est essentiel pour évaluer ultérieurement les performances de notre programme.</p>
-
 
 ## Description du Modèle 
 
