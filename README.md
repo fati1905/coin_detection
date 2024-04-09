@@ -79,7 +79,7 @@ Les résultats varient en fonction des images testées, mettant en lumière cert
 Notre système de détection de pièces de monnaie démontre le potentiel des CNN pour automatiser le comptage de monnaies dans des images. Bien que des défis subsistent, en particulier en ce qui concerne la gestion du bruit de fond et des variations dans l'apparence des pièces, les résultats sont encourageants. Des travaux futurs pourront explorer des améliorations du prétraitement et l'utilisation de modèles CNN pré-entraînés pour améliorer davantage la précision de la classification.
 
 ## Contributeurs:
-Ce projet a été réalisé grâce à la contribution des membres suivants :</p>
+Ce projet a été réalisé grâce à la contribution des membres suivants:</p>
     <ul>
         <li><strong>Marwa RIZI</strong></li>
         <li><strong>Tilelli BEKTACHE</strong></li>
