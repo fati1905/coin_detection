@@ -28,8 +28,8 @@ python main.py
 ```
 
 
-<h3>La base de données:</h3>
-<h3><strong>Contributeurs:</strong></h3>
+##La base de données:
+##Contributeurs:
 Ce projet a été réalisé grâce à la contribution des membres suivants :</p>
     <ul>
         <li><strong>Fatima BEN KADOUR</strong></li>
