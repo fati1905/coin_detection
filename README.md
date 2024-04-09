@@ -5,3 +5,10 @@
 
 <h3>La base de données:</h3>
 <p></p>
+>Ce projet a été réalisé grâce à la contribution des membres suivants :</p>
+    <ul>
+        <li><strong>Fatima BEN KADOUR</strong></li>
+        <li><strong>Tilelli BEKTACHE</strong></li>
+        <li><strong>Sabine BELAID</strong></li>
+        <li><strong>Marwa RIZI</strong></li>
+    </ul>
