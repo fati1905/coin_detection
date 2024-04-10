@@ -41,12 +41,18 @@ python main.py #pour tester
 
 <p>Cette vaste collection d'images offre une variété de contextes et d'angles de vue, ce qui permettra à notre modèle de se familiariser avec différents scénarios rencontrés dans des applications réelles.</p>
 
+
 ![1c 73](https://github.com/fati1905/coin_detection/assets/81489719/845f0e95-8423-480a-b24d-bf1f807edd1d)
+
+
 
 <p>La base de données pour la partie testing comprend 92 images de pièces de monnaie capturées par les étudiants du Master 1 VMI (Vision et Machine Intelligente) à Paris Cité, dans le cadre du projet du module "Introduction à l'analyse d'images". Ces images prises avec des smartphones ordinaires et sur divers arrière-plans. Cette diversité constitue l'un des principaux défis de ce projet.</p>
 <p>Ci-dessous, vous trouverez un échantillon de quelques images extraites de notre base de données.</p>
 
+
 ![image](https://github.com/fati1905/coin_detection/assets/81489719/2ee0de51-bddd-4536-938a-2090caf84f20)
+
+
 
 ![image](https://github.com/fati1905/coin_detection/assets/81489719/a4d7d8ca-252a-48b8-a63e-29a86a0209ba)
 
@@ -60,6 +66,8 @@ Le cœur de notre système repose sur l'utilisation de réseaux de neurones conv
 
 ### Évaluation du Modèle
 L'évaluation de notre modèle se fait au cours de son entraînement, en surveillant à la fois l'exactitude générale et la perte, ainsi que l'exactitude et la perte de validation. Cette approche nous permet d'ajuster le modèle pour optimiser ses performances.
+
+
 <img width="635" alt="Capture d'écran 2024-04-10 103726" src="https://github.com/fati1905/coin_detection/assets/152429992/0b4c9ec7-e23c-4155-b9b3-6bee371b54fd">
 
 ### Résultats et Observations
