@@ -60,6 +60,7 @@ Le cœur de notre système repose sur l'utilisation de réseaux de neurones conv
 
 ### Évaluation du Modèle
 L'évaluation de notre modèle se fait au cours de son entraînement, en surveillant à la fois l'exactitude générale et la perte, ainsi que l'exactitude et la perte de validation. Cette approche nous permet d'ajuster le modèle pour optimiser ses performances.
+<img width="635" alt="Capture d'écran 2024-04-10 103726" src="https://github.com/fati1905/coin_detection/assets/152429992/0b4c9ec7-e23c-4155-b9b3-6bee371b54fd">
 
 ### Résultats et Observations
 Les résultats varient en fonction des images testées, mettant en lumière certaines limitations de notre approche, telles que la difficulté à distinguer des pièces avec des caractéristiques très similaires ou des problèmes liés à l'orientation et au chevauchement des pièces. Cependant, notre modèle montre des performances prometteuses, en particulier avec des pièces de valeurs plus élevées.
